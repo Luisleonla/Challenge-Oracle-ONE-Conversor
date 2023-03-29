@@ -4,29 +4,13 @@ Proyecto del curso con alura para crear un conversor de moneda
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
-
-##Índice
-
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias)
-
-*[Índice](#índice)
-
-*[Descripción del proyecto](#descripción-del-proyecto)
-
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+<p>Challenge propuesto por alura-Oracle para practicar los conocimientos adquiridos en Java creando un convertidor de moneda</p>
+<h2>:hammer:Funcionalidades del proyecto</h2>
+<p>El presente proyecto busca permitir al usuario elegir el tipo de conversión que desea conseguir tomando como base un conversor de moneda y posteriormente agregar en el menú cualquier otra conversión que sea funcional. Abajo se enlistan ejemplos de conversion</p>
+<ul>
+   <li>Convertir de la moneda de tu país a Dólar</li>
+   <li>Convertir de la moneda de tu país  a Euros</li>
+   <li>Convertir de la moneda de tu país  a Libras Esterlinas</li>
+   <li>Convertir de la moneda de tu país  a Yen Japonés</li>
+   <li>Convertir de la moneda de tu país  a Won sul-coreano</li>  
+</ul>
